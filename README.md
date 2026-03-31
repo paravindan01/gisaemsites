@@ -1,4 +1,4 @@
-GIS AEM Site
+<Title> GIS AEM Site
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
