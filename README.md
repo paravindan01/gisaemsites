@@ -1,4 +1,3 @@
-# Your Project's Title...
 GIS AEM Site
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
